@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Uw_,1tK1=.z_*cPz`YRn">hellos</variable><variable id="7N2R7Jty9{]d#CSV_2XF">sprite</variable></variables><block type="device_button_event" id="fzvxzWgMIMoI80$H0{#i" x="95" y="-156"><field name="NAME">Button.AB</field></block><block type="pxt-on-start" id="-.CAAYKGP.qqZcRj!?R-" x="622" y="-111"><statement name="HANDLER"><block type="device_show_leds" id="ySzEY.f^Sd_E#PJ(YE4%"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_button_event" id="?~O-%3(A}JYndyeuzNu]" x="328" y="-33"><field name="NAME">Button.A</field></block><block type="device_button_event" id="W3t}Mr9S7F%yGJ0:QzM;" x="0" y="0"><field name="NAME">Button.B</field></block></xml>
